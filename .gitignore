@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+logs/
+reports/diagnostic_report_*.txt
+reports/diagnostic_report_*.csv
+reports/diagnostic_report_*.json
+reports/l2_escalation_*.txt
+.DS_Store
